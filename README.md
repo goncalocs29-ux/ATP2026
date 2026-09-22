@@ -12,7 +12,7 @@ Repositório de resolução dos trabalhos de casa (TPC's)
 
 | TPC | Link |
 |-----|-----------|
-| [TPC1] |https://github.com/goncalocs29-ux/ATP2026/blob/main/TPC1#:~:text=README.md-,TPC1,-Breadcrumbs|
+| TPC1 |https://github.com/goncalocs29-ux/ATP2026/blob/main/TPC1#:~:text=README.md-,TPC1,-Breadcrumbs|
 | [TPC2]() 
 | [TPC3]() 
 | [TPC4]() 
