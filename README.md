@@ -10,9 +10,9 @@ Repositório de resolução dos trabalhos de casa (TPC's)
 
 ## Links para os ficheiros da resolução
 
-| TPC | Descrição |
+| TPC | Link |
 |-----|-----------|
-| [TPC1]() 
+| [TPC1](https://github.com/goncalocs29-ux/ATP2026/blob/main/TPC1#:~:text=README.md-,TPC1,-Breadcrumbs) 
 | [TPC2]() 
 | [TPC3]() 
 | [TPC4]() 
